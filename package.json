@@ -75,7 +75,10 @@
     "slugify": "^1.6.6",
     "subsrt-ts": "^2.1.2",
     "zustand": "^4.5.5",
-    "tailwindcss": "^3.4.12"
+    "tailwindcss": "^3.4.12",
+    "postcss": "^8.4.47",
+    "postcss-rtl": "^2.0.0",
+    "autoprefixer": "^10.4.16"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
@@ -117,8 +120,6 @@
     "glob": "^10.4.5",
     "handlebars": "^4.7.8",
     "jsdom": "^23.2.0",
-    "postcss": "^8.4.47",
-    "postcss-rtl": "^2.0.0",
     "postcss-rtlcss": "^4.0.9",
     "prettier": "^3.3.3",
     "prettier-plugin-tailwindcss": "^0.5.14",
