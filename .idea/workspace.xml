@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc2ec9e6-25ef-4f46-acd6-4b2d1a93733c" name="Changes" comment="update sources to default" />
+    <list default="true" id="fc2ec9e6-25ef-4f46-acd6-4b2d1a93733c" name="Changes" comment="update sources" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,6 +79,7 @@
       <workItem from="1740675452272" duration="822000" />
       <workItem from="1740676298181" duration="1739000" />
       <workItem from="1740678758181" duration="2565000" />
+      <workItem from="1741547927129" duration="347000" />
     </task>
     <task id="LOCAL-00001" summary="add changes">
       <option name="closed" value="true" />
@@ -112,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740684659766</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update sources">
+      <option name="closed" value="true" />
+      <created>1741548014940</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741548014940</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +141,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add changes" />
     <MESSAGE value="update sources to default" />
-    <option name="LAST_COMMIT_MESSAGE" value="update sources to default" />
+    <MESSAGE value="update sources" />
+    <option name="LAST_COMMIT_MESSAGE" value="update sources" />
   </component>
 </project>
